@@ -1,0 +1,16 @@
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\IEnumerableAndIQuerable.exe
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\IEnumerableAndIQuerable.deps.json
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\IEnumerableAndIQuerable.runtimeconfig.json
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\IEnumerableAndIQuerable.runtimeconfig.dev.json
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\IEnumerableAndIQuerable.dll
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\ref\IEnumerableAndIQuerable.dll
+F:\C#\LinQ\IEnumerableAndIQuerable\bin\Debug\net5.0\IEnumerableAndIQuerable.pdb
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.csproj.AssemblyReference.cache
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.AssemblyInfoInputs.cache
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.AssemblyInfo.cs
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.dll
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\ref\IEnumerableAndIQuerable.dll
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.pdb
+F:\C#\LinQ\IEnumerableAndIQuerable\obj\Debug\net5.0\IEnumerableAndIQuerable.genruntimeconfig.cache

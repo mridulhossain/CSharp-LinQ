@@ -1,0 +1,16 @@
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\SelectManyInLinQ.exe
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\SelectManyInLinQ.deps.json
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\SelectManyInLinQ.runtimeconfig.json
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\SelectManyInLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\SelectManyInLinQ.dll
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\ref\SelectManyInLinQ.dll
+F:\C#\LinQ\SelectManyInLinQ\bin\Debug\net5.0\SelectManyInLinQ.pdb
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.csproj.AssemblyReference.cache
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.AssemblyInfo.cs
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.dll
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\ref\SelectManyInLinQ.dll
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.pdb
+F:\C#\LinQ\SelectManyInLinQ\obj\Debug\net5.0\SelectManyInLinQ.genruntimeconfig.cache

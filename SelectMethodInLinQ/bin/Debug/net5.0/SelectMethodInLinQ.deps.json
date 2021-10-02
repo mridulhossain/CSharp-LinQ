@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SelectMethodInLinQ/1.0.0": {
+        "runtime": {
+          "SelectMethodInLinQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SelectMethodInLinQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

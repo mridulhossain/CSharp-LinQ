@@ -1,0 +1,16 @@
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\LinQ.exe
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\LinQ.deps.json
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.json
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.dev.json
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\LinQ.dll
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\ref\LinQ.dll
+F:\C#\LinQ\LinQ\bin\Debug\net5.0\LinQ.pdb
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.csproj.AssemblyReference.cache
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfo.cs
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.dll
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\ref\LinQ.dll
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.pdb
+F:\C#\LinQ\LinQ\obj\Debug\net5.0\LinQ.genruntimeconfig.cache

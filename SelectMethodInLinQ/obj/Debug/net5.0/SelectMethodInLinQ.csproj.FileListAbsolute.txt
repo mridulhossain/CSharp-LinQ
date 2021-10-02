@@ -1,0 +1,16 @@
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\SelectMethodInLinQ.exe
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\SelectMethodInLinQ.deps.json
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\SelectMethodInLinQ.runtimeconfig.json
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\SelectMethodInLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\SelectMethodInLinQ.dll
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\ref\SelectMethodInLinQ.dll
+F:\C#\LinQ\SelectMethodInLinQ\bin\Debug\net5.0\SelectMethodInLinQ.pdb
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.csproj.AssemblyReference.cache
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.AssemblyInfo.cs
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.dll
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\ref\SelectMethodInLinQ.dll
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.pdb
+F:\C#\LinQ\SelectMethodInLinQ\obj\Debug\net5.0\SelectMethodInLinQ.genruntimeconfig.cache
