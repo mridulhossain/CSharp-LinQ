@@ -1,0 +1,16 @@
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\WhereMethodLinQ.exe
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\WhereMethodLinQ.deps.json
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\WhereMethodLinQ.runtimeconfig.json
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\WhereMethodLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\WhereMethodLinQ.dll
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\ref\WhereMethodLinQ.dll
+F:\C#\LinQ\WhereMethodLinQ\bin\Debug\net5.0\WhereMethodLinQ.pdb
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.AssemblyInfo.cs
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.dll
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\ref\WhereMethodLinQ.dll
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.pdb
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.genruntimeconfig.cache
+F:\C#\LinQ\WhereMethodLinQ\obj\Debug\net5.0\WhereMethodLinQ.csproj.AssemblyReference.cache

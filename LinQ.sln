@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ", "LinQ\LinQ.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnumerableAndIQuerable", "IEnumerableAndIQuerable\IEnumerableAndIQuerable.csproj", "{8985B21C-795C-452A-BDC2-D34646832B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectMethodInLinQ", "SelectMethodInLinQ\SelectMethodInLinQ.csproj", "{B79B03D7-2316-467E-93F3-C33005F7B96D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectMethodInLinQ", "SelectMethodInLinQ\SelectMethodInLinQ.csproj", "{B79B03D7-2316-467E-93F3-C33005F7B96D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectManyInLinQ", "SelectManyInLinQ\SelectManyInLinQ.csproj", "{A43CEF8E-99D2-4624-8E9B-6D699D5BB3E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectManyInLinQ", "SelectManyInLinQ\SelectManyInLinQ.csproj", "{A43CEF8E-99D2-4624-8E9B-6D699D5BB3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereMethodLinQ", "WhereMethodLinQ\WhereMethodLinQ.csproj", "{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A43CEF8E-99D2-4624-8E9B-6D699D5BB3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A43CEF8E-99D2-4624-8E9B-6D699D5BB3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A43CEF8E-99D2-4624-8E9B-6D699D5BB3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
