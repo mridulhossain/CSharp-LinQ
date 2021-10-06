@@ -1,0 +1,15 @@
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\OfTypeOperatorLinQ.exe
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\OfTypeOperatorLinQ.deps.json
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\OfTypeOperatorLinQ.runtimeconfig.json
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\OfTypeOperatorLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\OfTypeOperatorLinQ.dll
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\ref\OfTypeOperatorLinQ.dll
+F:\C#\LinQ\OfTypeOperatorLinQ\bin\Debug\net5.0\OfTypeOperatorLinQ.pdb
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.AssemblyInfo.cs
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.dll
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\ref\OfTypeOperatorLinQ.dll
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.pdb
+F:\C#\LinQ\OfTypeOperatorLinQ\obj\Debug\net5.0\OfTypeOperatorLinQ.genruntimeconfig.cache
