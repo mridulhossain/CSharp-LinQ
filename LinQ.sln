@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectMethodInLinQ", "Selec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectManyInLinQ", "SelectManyInLinQ\SelectManyInLinQ.csproj", "{A43CEF8E-99D2-4624-8E9B-6D699D5BB3E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereMethodLinQ", "WhereMethodLinQ\WhereMethodLinQ.csproj", "{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhereMethodLinQ", "WhereMethodLinQ\WhereMethodLinQ.csproj", "{2D76AEC3-B36B-4A17-86D8-3AFBEFD9A25B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfTypeOperatorLinQ", "OfTypeOperatorLinQ\OfTypeOperatorLinQ.csproj", "{8EE63257-EC65-4F07-BF2D-BC65F8710455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfTypeOperatorLinQ", "OfTypeOperatorLinQ\OfTypeOperatorLinQ.csproj", "{8EE63257-EC65-4F07-BF2D-BC65F8710455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByInLINQ", "OrderByInLINQ\OrderByInLINQ.csproj", "{3FD7BEDC-3D10-4130-83FD-9325020587F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8EE63257-EC65-4F07-BF2D-BC65F8710455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EE63257-EC65-4F07-BF2D-BC65F8710455}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EE63257-EC65-4F07-BF2D-BC65F8710455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD7BEDC-3D10-4130-83FD-9325020587F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD7BEDC-3D10-4130-83FD-9325020587F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD7BEDC-3D10-4130-83FD-9325020587F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD7BEDC-3D10-4130-83FD-9325020587F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

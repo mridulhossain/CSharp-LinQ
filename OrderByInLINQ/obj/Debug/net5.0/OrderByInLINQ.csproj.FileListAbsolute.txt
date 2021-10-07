@@ -1,0 +1,16 @@
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\OrderByInLINQ.exe
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\OrderByInLINQ.deps.json
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\OrderByInLINQ.runtimeconfig.json
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\OrderByInLINQ.runtimeconfig.dev.json
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\OrderByInLINQ.dll
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\ref\OrderByInLINQ.dll
+F:\C#\LinQ\OrderByInLINQ\bin\Debug\net5.0\OrderByInLINQ.pdb
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.AssemblyInfo.cs
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.dll
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\ref\OrderByInLINQ.dll
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.pdb
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.genruntimeconfig.cache
+F:\C#\LinQ\OrderByInLINQ\obj\Debug\net5.0\OrderByInLINQ.csproj.AssemblyReference.cache
