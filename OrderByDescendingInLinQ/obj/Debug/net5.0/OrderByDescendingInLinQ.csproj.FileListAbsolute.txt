@@ -1,0 +1,16 @@
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\OrderByDescendingInLinQ.exe
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\OrderByDescendingInLinQ.deps.json
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\OrderByDescendingInLinQ.runtimeconfig.json
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\OrderByDescendingInLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\OrderByDescendingInLinQ.dll
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\ref\OrderByDescendingInLinQ.dll
+F:\C#\LinQ\OrderByDescendingInLinQ\bin\Debug\net5.0\OrderByDescendingInLinQ.pdb
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.csproj.AssemblyReference.cache
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.AssemblyInfo.cs
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.dll
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\ref\OrderByDescendingInLinQ.dll
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.pdb
+F:\C#\LinQ\OrderByDescendingInLinQ\obj\Debug\net5.0\OrderByDescendingInLinQ.genruntimeconfig.cache
