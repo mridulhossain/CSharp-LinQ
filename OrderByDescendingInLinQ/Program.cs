@@ -9,9 +9,10 @@ namespace OrderByDescendingInLinQ
         static void Main(string[] args)
         {
             // today we learn about descending order method with method syntex and query syntex
-
             List<int> numbers = new List<int>() { 100, 8, 20, 35, 66, 2, 198, 5, 6 }; // data source
             List<string> names = new List<string>() { "Mridul", "Abir", "Ekram", "Babu", "Chayan", "Dowdhul", "Fahim", "Mubasher" }; // data source
+
+
                                             
             //student's data soruce
             List<Student> students = new List<Student>()
@@ -63,6 +64,7 @@ namespace OrderByDescendingInLinQ
             {
                 Console.WriteLine($"id- {student.Id}, name- {student.Name}, roll- {student.Roll} ");
             }
+
 
             Console.WriteLine("-----------------------------------------------------------------");
 

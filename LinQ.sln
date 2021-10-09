@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhereMethodLinQ", "WhereMet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfTypeOperatorLinQ", "OfTypeOperatorLinQ\OfTypeOperatorLinQ.csproj", "{8EE63257-EC65-4F07-BF2D-BC65F8710455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByInLINQ", "OrderByInLINQ\OrderByInLINQ.csproj", "{3FD7BEDC-3D10-4130-83FD-9325020587F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderByInLINQ", "OrderByInLINQ\OrderByInLINQ.csproj", "{3FD7BEDC-3D10-4130-83FD-9325020587F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByDescendingInLinQ", "OrderByDescendingInLinQ\OrderByDescendingInLinQ.csproj", "{C3F15E64-F79A-41A0-AF7D-38C18E053625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderByDescendingInLinQ", "OrderByDescendingInLinQ\OrderByDescendingInLinQ.csproj", "{C3F15E64-F79A-41A0-AF7D-38C18E053625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThenByAndThenByDescendingInLinQ", "ThenByAndThenByDescendingInLinQ\ThenByAndThenByDescendingInLinQ.csproj", "{619B41DE-D0A3-449F-8653-5DB9C2378B98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C3F15E64-F79A-41A0-AF7D-38C18E053625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3F15E64-F79A-41A0-AF7D-38C18E053625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3F15E64-F79A-41A0-AF7D-38C18E053625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619B41DE-D0A3-449F-8653-5DB9C2378B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619B41DE-D0A3-449F-8653-5DB9C2378B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619B41DE-D0A3-449F-8653-5DB9C2378B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619B41DE-D0A3-449F-8653-5DB9C2378B98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ThenByAndThenByDescendingInLinQ.exe
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ThenByAndThenByDescendingInLinQ.deps.json
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ThenByAndThenByDescendingInLinQ.runtimeconfig.json
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ThenByAndThenByDescendingInLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ThenByAndThenByDescendingInLinQ.dll
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ref\ThenByAndThenByDescendingInLinQ.dll
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\bin\Debug\net5.0\ThenByAndThenByDescendingInLinQ.pdb
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.csproj.AssemblyReference.cache
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.AssemblyInfo.cs
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.dll
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ref\ThenByAndThenByDescendingInLinQ.dll
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.pdb
+F:\C#\LinQ\ThenByAndThenByDescendingInLinQ\obj\Debug\net5.0\ThenByAndThenByDescendingInLinQ.genruntimeconfig.cache
