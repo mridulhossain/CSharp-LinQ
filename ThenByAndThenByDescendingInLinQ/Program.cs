@@ -13,7 +13,7 @@ namespace ThenByAndThenByDescendingInLinQ
              * first you have to use OrderBy then you have to use ThenBy for other's level
              */
 
-            List<Employee> employees = new List<Employee>()
+            List<Employee> employees = new List<Employee>() // data source
             {
                 new Employee{Id = 1, FirstName = "Sakhawat" , LastName = "Hossain" , Salary = 15000 },
                 new Employee{Id = 2, FirstName = "Abir" , LastName = "Ahmed" , Salary = 20000 },
@@ -28,6 +28,8 @@ namespace ThenByAndThenByDescendingInLinQ
 
             };
 
+
+            // let's see how to use ThenBy method syntex
             var data = employees.OrderBy(x => x.FirstName).ThenBy(x => x.LastName).ThenBy(x => x.Salary).ToList();
 
             foreach (var employee in data)
@@ -35,9 +37,48 @@ namespace ThenByAndThenByDescendingInLinQ
                 Console.WriteLine($"Id - {employee.Id},first name - {employee.FirstName},last name - {employee.LastName},salary - {employee.Salary}");
             }
 
+
+
+            Console.WriteLine("-------------------------------------------------------------------------------");
+
+
+
+            // now let's see by query syntex
+            var data1 = (from employee in employees orderby employee.FirstName ascending, employee.LastName ascending, employee.Salary ascending select employee).ToList();
+
+            foreach (var employee in data1)
+            {
+                Console.WriteLine($"Id - {employee.Id},first name - {employee.FirstName},last name - {employee.LastName},salary - {employee.Salary}");
+            }
+
+
+
+            Console.WriteLine("-------------------------------------------------------------------------------");
+
+
+            // now we going to try ThenByDescending method syntex 
+            var data2 = employees.OrderByDescending(x => x.FirstName).ThenByDescending(x => x.LastName).ThenByDescending(x => x.Salary).ToList();
+
+            foreach (var employee in data2)
+            {
+                Console.WriteLine($"Id - {employee.Id},first name - {employee.FirstName},last name - {employee.LastName},salary - {employee.Salary}");
+            }
+
+
+            Console.WriteLine("-------------------------------------------------------------------------------");
+            // now we gonna try multi level descending by query syntex
+            var data3 = (from employee in employees orderby employee.FirstName descending, employee.LastName descending, employee.Salary descending select employee).ToList();
+
+            foreach (var employee in data3)
+            {
+                Console.WriteLine($"Id - {employee.Id},first name - {employee.FirstName},last name - {employee.LastName},salary - {employee.Salary}");
+            }
+
         }
     }
 
+
+    // data structure
     public class Employee
     {
         public int Id { get; set; }
