@@ -1,0 +1,16 @@
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ReverseInLinQ.exe
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ReverseInLinQ.deps.json
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ReverseInLinQ.runtimeconfig.json
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ReverseInLinQ.runtimeconfig.dev.json
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ReverseInLinQ.dll
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ref\ReverseInLinQ.dll
+F:\C#\LinQ\ReverseInLinQ\bin\Debug\net5.0\ReverseInLinQ.pdb
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.csproj.AssemblyReference.cache
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.AssemblyInfoInputs.cache
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.AssemblyInfo.cs
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.csproj.CoreCompileInputs.cache
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.dll
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ref\ReverseInLinQ.dll
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.pdb
+F:\C#\LinQ\ReverseInLinQ\obj\Debug\net5.0\ReverseInLinQ.genruntimeconfig.cache
